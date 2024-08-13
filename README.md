@@ -39,3 +39,5 @@ Loan Status:
 -Average Interest Rate: 12.0%.
 -Average DTI: 13.3%.
 This dashboard provides a granular view of each loan, allowing for in-depth analysis of specific applications and their outcomes.
+
+Dashboard Link- https://vitacin-my.sharepoint.com/:u:/g/personal/nirabhi_srivastava2021_vitstudent_ac_in/EZCtOqim_ZZEkH1h38vBzo0ByMo7aLaVuODPII1kAKCBww?e=jiVdAB 
